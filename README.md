@@ -7,3 +7,6 @@
 - **AI & Vision:** TensorFlow, Keras, PyTorch, OpenCV, Pandas, NumPy
 - **Mobile & Web:** Flutter, BLoC Pattern, Django REST Framework
 - **Tools:** Git, Docker, Linux, Firebase, Figma
+
+
+📫 Email: firouzmehrava@gmail.com
