@@ -1,6 +1,5 @@
 ### Hi there, I'm Ava Firouzmehr 👋
 - 🌱 I'm a Computer Engineering graduate specializing in **Flutter, Deep Learning, and Computer Vision**.
-- 🔬 Currently working as a Research Developer on human cognitive and **EEG laboratory systems**.
 - 🚀 Passionate about clean architecture, AI integration, and cross-platform mobile/web apps.
 
 ### 🛠️ Tech Stack & Skills
